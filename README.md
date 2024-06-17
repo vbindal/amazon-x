@@ -42,7 +42,7 @@ Starting the Backend
 To start the backend services for this project, follow these steps:
 
 1) Clone the Project: Ensure you have cloned the project repository to your local machine.
-  git clone [https://github.com/your-repo/your-project.git](https://github.com/vbindal/amazon-x.git)
+  git clone [github repo](https://github.com/vbindal/amazon-x.git)
   cd your-project
 
 2) Navigate to the Backend Directory: Assuming your backend functions are located in a folder named functions.
